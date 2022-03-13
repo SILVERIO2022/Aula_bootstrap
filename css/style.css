@@ -1,0 +1,65 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #1B5E20;
+   
+}
+
+header nav div ul li a{
+    color: white;
+    font-weight: bold;
+}
+
+header nav div ul li a:hover{
+    color: #fff;
+}
+
+.titulo{
+    font-weight: 500;
+    color: white;
+}
+
+.photo {
+    border-radius: 50%;
+
+}
+
+.Avaliações-de-Campo {
+    background-color: #DCEDC8;
+    color: black;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.col-lg-4 {
+   padding-left: 10px;
+   padding-top: 10px;
+}
+
+.Resultados-de-Colheitas {
+    background-color: #EBEDEF;
+}
+
+.ROI {
+    background-color: #6296d1;
+}
+
+.text3{
+  padding-top: 15px;
+  font-style: italic;
+  font-weight: bold; /*fonte em negrito*/
+}
+.text-ROI {
+    color: black;
+    font-weight: bold;
+
+}
+
+.bg-footer {
+    background-color: #B2BABB;
+    
+}
